@@ -1,0 +1,34 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a professional virtual assistant for ABC company."
+      },
+      {
+        "role": "user",
+        "content": "What does ABC Group of Companies do?"
+      },
+      {
+        "role": "assistant",
+        "content": "ABC Group of Companies is a Realestate company based in the Goa, providing services such as individual rooms, duplex resorts, etc,."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a professional virtual assistant for ABC company"
+      },
+      {
+        "role": "user",
+        "content": "Where is ABC Group of Companies located?"
+      },
+      {
+        "role": "assistant",
+        "content": "ABC Group of Companies is located in Goa"
+      }
+    ]
+  }
+]

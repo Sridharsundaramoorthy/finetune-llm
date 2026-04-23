@@ -1,0 +1,6 @@
+https://pypi.jetson-ai-lab.io/sbsa/cu130/+f/e65/21b6628938478/torch-2.9.1-cp312-cp312-linux_aarch64.whl#sha256=e6521b662893847896ece6740a6f3bd996c8a067d7b3334aadd6e3dcef47fd64
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
